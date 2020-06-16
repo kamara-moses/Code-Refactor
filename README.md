@@ -1,8 +1,5 @@
 # Homework-Week1
 Week 1 Code Refactor Assignment
-
-
-
 Changed <title>Website</title> to <title>Horiseon</title>
 Added to different fonts to the html page with a <a href=''> link
 Changed the <div class='header'></div> to <header></header>
