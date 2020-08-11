@@ -3,7 +3,7 @@
 <h2>Purpose</h2>
 This was intended as practice to utilize skills that can enhance your ability to spot errors within a code. Some of the code was broken causing the site not to work properly as intented. Upon finding the errors the code began to function properly.
 
-![Code Refactor Demo](img src='images/code refactor.gif');
+![Code Refactor Demo](images/code-refactor.gif)
 
 <h2>Tedchnologies Used</h2>
 
